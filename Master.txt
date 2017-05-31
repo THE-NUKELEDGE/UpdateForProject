@@ -1,7 +1,5 @@
 
-<Version: 1.07>
-/data/Map002.json https://raw.githubusercontent.com/THE-NUKELEDGE/Updates/master/Map002.json
-/data/Map003.json https://raw.githubusercontent.com/THE-NUKELEDGE/Updates/master/Map003.json
-js/plugins/GamepadConfig.js https://raw.githubusercontent.com/THE-NUKELEDGE/Updates/master/GamepadConfig.js
-/data/Old.zip https://docs.google.com/uc?export=download&confirm=ssWu&id=0B3ai5KUq4K35Q1VYWGN3SU1UcG8
+<Version: 0.01>
+
 <End of Version>
+
